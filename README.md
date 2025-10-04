@@ -53,8 +53,6 @@
 NOTE: 
 - Used Web view to load the video since youtube video not supported in AVPlayer
 
-## Screen Shots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/44a2a32e-dd28-4b9d-a386-bd50389bb78b" width="45%" />
   <img src="https://github.com/user-attachments/assets/fbdf2155-135e-4729-ae63-e69dad23d095" width="45%" />
