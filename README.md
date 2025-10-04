@@ -55,7 +55,7 @@ NOTE:
 
 ## Screen Shots
 
-<p>
-<img width="1179" height="2556" alt="simulator_screenshot_85E1744D-34A7-4439-BD77-F3E028FC9D18" src="https://github.com/user-attachments/assets/44a2a32e-dd28-4b9d-a386-bd50389bb78b" />
-<img width="1179" height="2556" alt="simulator_screenshot_B7C845E2-0FEB-4FC5-BEE6-40F1539B80BA" src="https://github.com/user-attachments/assets/fbdf2155-135e-4729-ae63-e69dad23d095" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44a2a32e-dd28-4b9d-a386-bd50389bb78b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fbdf2155-135e-4729-ae63-e69dad23d095" width="45%" />
 </p>
