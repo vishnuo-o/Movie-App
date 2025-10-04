@@ -2,12 +2,12 @@
 
 ## Tech Stack
 
-Language - Swift
-Framework - Swift UI
-Architecture - MVVM 
-Concurrency - Modern async / await 
-Local storage - Core data
-Minimum Target - 16.0 (In Swift UI is highly recommended to have atleast 16.0)
+- Language - Swift
+- Framework - Swift UI
+- Architecture - MVVM 
+- Concurrency - Modern async / await 
+- Local storage - Core data
+- Minimum Target - 16.0 (In Swift UI is highly recommended to have atleast 16.0)
 
 
 ## Architectural Overview
