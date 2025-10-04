@@ -41,12 +41,12 @@
 
 ## Area of Improvements
 
-- Caching mechanism the image / video 
+- Caching mechanism for images 
 - Prefetch mechanism in listing
 - Repository pattern for local database / offline handling
-- Store the Keys Securely using Key Chain
-- Localization support
-- Can Reduce the unintended re-renders improves performance 
+- KeyChain to store the API keys
+- Localization / Accessability support
+- Reduce the unintended re-renders in Swift UI to improves performance 
 
 
 NOTE: 
