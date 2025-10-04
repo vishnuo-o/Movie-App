@@ -33,7 +33,7 @@
 - Pagination support added
 - Orientation support added
 - Dark mode support added
-- iPad Support added
+- Basic iPad Support added
 - Pull to refresh added
 - Debounce for search added
 - Automatic retry Mechanism implemented on API call failure
@@ -45,6 +45,7 @@
 - Prefetch mechanism in listing
 - Repository pattern for local database / offline handling
 - KeyChain to store the API keys
+- Split view Support for iPad
 - Localization / Accessability support
 - Reduce the unintended re-renders in Swift UI to improves performance 
 
