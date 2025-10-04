@@ -52,3 +52,9 @@
 
 NOTE: 
 - Used Web view to load the video since youtube video not supported in AVPlayer
+
+## Screen Shots
+<img width="1179" height="2556" alt="simulator_screenshot_1903BE4C-7BA8-4118-809E-EE8672938601" src="https://github.com/user-attachments/assets/3b6d7ac1-355b-4131-b1a2-6c1c38e775c1" />
+
+
+<img width="1179" height="2556" alt="simulator_screenshot_FB2F49FA-0C83-476B-A38D-A65C9143C3CC" src="https://github.com/user-attachments/assets/6dbb2fe8-90ee-466b-a07a-f43a4732a862" />
