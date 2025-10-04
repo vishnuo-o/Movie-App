@@ -9,7 +9,6 @@
 - Local storage - Core data
 - Minimum Target - 16.0 (In Swift UI is highly recommended to have atleast 16.0)
 
-
 ## Architectural Overview
 
     MovieApp/
@@ -52,6 +51,8 @@
 
 NOTE: 
 - Used Web view to load the video since youtube video not supported in AVPlayer
+
+***
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/44a2a32e-dd28-4b9d-a386-bd50389bb78b" width="45%" />
